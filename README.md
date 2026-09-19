@@ -8,17 +8,17 @@ We work closely with the main ION-I club, so this plan will shift with their pri
 - [Engineering Open House](https://www.eohillinois.org/), Apr 9-10, 2027 — public exhibit/demo format.
 - [Undergraduate Research Symposium](https://undergradresearch.illinois.edu/events/research-week/symposium/), Apr 28-29, 2027 — poster/oral
   
-| Semester Plan |  ||
-|---|---|---|
-| Week 1 | Sep 20 - Sep 26 | • Audit shared particle datasets and Gott & Xu cathode geometry.<br>• Define engineering-geometry/field-data input format.<br>• Paper: scope candidate topics against the visualization/physics workstreams, pick one.<br> Deliverable: Data & geometry inventory and import plan; paper topic selected. |
-| Week 2 | Sep 27 - Oct 3 | • Extend particle visualization to engineering geometry and field data.<br>• Stand up PyVista/VTK/Trame rendering environment in this repo.<br>• Paper: literature review / related-work scan.<br> Deliverable: Field-data loader prototype; paper related-work summary. |
-| Week 3 | Oct 4 - Oct 10 | • Scaffold club homepage (thruster architecture, research objectives, project status).<br>• Paper: draft outline and methods framing.<br> Deliverable: Homepage skeleton deployed; paper outline. |
-| Week 4 | Oct 11 - Oct 17 | • Build subteam-research page templates (hardware, models, analysis).<br>• Add technical-record section (methods, references, links to data/code).<br> Deliverable: Subteam + technical-record page templates. |
-| Week 5 | Oct 18 - Oct 24 | • Build simplified microplasma cathode CAD assembly.<br>• Paper: results/figures for the method section, drawn from this repo's outputs.<br> Deliverable: First CAD assembly; paper method-section figures. |
-| Week 6 | Oct 25 - Oct 31 | • Cutaway renders and scientific-gallery layout (CAD + renders + interactive views).<br> Deliverable: Cutaway render set. |
-| Week 7 | Nov 1 - Nov 7 | • Connect plasma viewer to homepage.<br>• Document data conventions (units, model assumptions) per figure.<br>• Paper: first full draft.<br> Deliverable: Embedded viewer v1; paper first full draft. |
-| Week 8 | Nov 8 - Nov 14 | • Publish documented figure examples.<br>• Define reproducible-output workflow (source data, model assumptions, rendering settings).<br> Deliverable: Reproducible figure workflow. |
-| Week 9 | Nov 15 - Nov 21 | • First cross-subteam visualization: Discharge Chamber (magnet geometry/field maps) or Ion Optics (grid geometry, ion trajectories).<br>• Paper: revision pass w/ advisor or club feedback.<br> Deliverable: Cross-team visualization panel; paper revised draft. |
-| Week 10 | Nov 22 - Nov 28 | • QA across homepage and viewer; close data-provenance gaps.<br>• Thanksgiving break Nov 26 - Nov 27, light-touch week.<br> Deliverable: Pre-break stable build. |
-| Week 11 | Nov 29 - Dec 5 | • Finalize scientific figures for papers/technical reviews.<br>• Paper: submission-ready draft.<br> Deliverable: Publication-ready figure set; paper submission-ready draft. |
-| Week 12 | Dec 6 - Dec 12 | • Project documentation.<br>• Semester wrap-up and final figure publish.<br>• Paper: submit / prep EOH & URS abstracts for Spring 2027.<br> Deliverable: Semester close-out; paper submitted, EOH & URS abstracts drafted for Spring 2027. |
+| Semester Plan ||
+|---|---|
+| Sep 20 - Sep 26 | • Audit shared particle datasets and Gott & Xu cathode geometry.<br>• Define engineering-geometry/field-data input format.<br>• Paper: scope candidate topics against the visualization/physics workstreams, pick one.<br> Deliverable: Data & geometry inventory and import plan; paper topic selected. |
+| Sep 27 - Oct 3 | • Extend particle visualization to engineering geometry and field data.<br>• Stand up PyVista/VTK/Trame rendering environment in this repo.<br>• Paper: literature review / related-work scan.<br> Deliverable: Field-data loader prototype; paper related-work summary. |
+| Oct 4 - Oct 10 | • Scaffold club homepage (thruster architecture, research objectives, project status).<br>• Paper: draft outline and methods framing.<br> Deliverable: Homepage skeleton deployed; paper outline. |
+| Oct 11 - Oct 17 | • Build subteam-research page templates (hardware, models, analysis).<br>• Add technical-record section (methods, references, links to data/code).<br> Deliverable: Subteam + technical-record page templates. |
+| Oct 18 - Oct 24 | • Build simplified microplasma cathode CAD assembly.<br>• Paper: results/figures for the method section, drawn from this repo's outputs.<br> Deliverable: First CAD assembly; paper method-section figures. |
+| Oct 25 - Oct 31 | • Cutaway renders and scientific-gallery layout (CAD + renders + interactive views).<br> Deliverable: Cutaway render set. |
+| Nov 1 - Nov 7 | • Connect plasma viewer to homepage.<br>• Document data conventions (units, model assumptions) per figure.<br>• Paper: first full draft.<br> Deliverable: Embedded viewer v1; paper first full draft. |
+| Nov 8 - Nov 14 | • Publish documented figure examples.<br>• Define reproducible-output workflow (source data, model assumptions, rendering settings).<br> Deliverable: Reproducible figure workflow. |
+| Nov 15 - Nov 21 | • First cross-subteam visualization: Discharge Chamber (magnet geometry/field maps) or Ion Optics (grid geometry, ion trajectories).<br>• Paper: revision pass w/ advisor or club feedback.<br> Deliverable: Cross-team visualization panel; paper revised draft. |
+| Nov 22 - Nov 28 | • QA across homepage and viewer; close data-provenance gaps.<br>• Thanksgiving break Nov 26 - Nov 27, light-touch week.<br> Deliverable: Pre-break stable build. |
+| Nov 29 - Dec 5 | • Finalize scientific figures for papers/technical reviews.<br>• Paper: submission-ready draft.<br> Deliverable: Publication-ready figure set; paper submission-ready draft. |
+| Dec 6 - Dec 12 | • Project documentation.<br>• Semester wrap-up and final figure publish.<br>• Paper: submit / prep EOH & URS abstracts for Spring 2027.<br> Deliverable: Semester close-out; paper submitted, EOH & URS abstracts drafted for Spring 2027. |
