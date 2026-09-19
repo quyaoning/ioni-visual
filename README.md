@@ -4,10 +4,10 @@ Scientific visualization subteam, Electric Propulsion Initiative (ION-I). Fall 2
 
 We work closely with the main ION-I club, so this plan will shift with their priorities, timelines, and CAD/analysis deliverables as those land.
 
-**Paper track**: a research-grade paper on this subteam's scientific-visualization work, topic TBD, runs alongside the plan below starting Week 1. Target venues if it's ready in time (both UIUC-internal, Spring 2027):
+**Paper track**: a research-grade paper on this subteam's scientific-visualization work, topic TBD
 - [Engineering Open House](https://www.eohillinois.org/), Apr 9-10, 2027 — public exhibit/demo format.
-- [Undergraduate Research Symposium](https://undergradresearch.illinois.edu/events/research-week/symposium/), Apr 28-29, 2027 — poster/oral, 200-word abstract; 2027 application deadline not yet posted (past years opened ~Feb-Mar), watch undergradresearch.illinois.edu or contact ugresearch@illinois.edu.
-
+- [Undergraduate Research Symposium](https://undergradresearch.illinois.edu/events/research-week/symposium/), Apr 28-29, 2027 — poster/oral
+  
 | Semester Plan |  ||
 |---|---|---|
 | Week 1 | Sep 19 - Sep 25 | • Audit shared particle datasets and Gott & Xu cathode geometry.<br>• Define engineering-geometry/field-data input format.<br>• Paper: scope candidate topics against the visualization/physics workstreams, pick one.<br> Deliverable: Data & geometry inventory and import plan. |
