@@ -1,0 +1,1 @@
+Particle datasets are shared with [plasma-visualization](https://github.com/quyaoning/Plasma-Visualization) (`Dataset/`). This semester's engineering-geometry and field-data inputs land here as they're produced.
