@@ -10,7 +10,7 @@ We work closely with the main ION-I club, so this plan will shift with their pri
   
 | Semester Plan ||
 |---|---|
-| Sep 20 - Sep 26 | • Audit shared particle datasets and Gott & Xu cathode geometry.<br>• Define engineering-geometry/field-data input format.<br>• Paper: scope candidate topics against the visualization/physics workstreams, pick one.<br> Deliverable: Data & geometry inventory and import plan; paper topic selected. |
+| Sep 20 - Sep 26 | • Define engineering-geometry/field-data input format.<br>• Paper: scope candidate topics against the visualization/physics workstreams, pick one.<br> Deliverable: Data & geometry inventory and import plan; paper topic selected. |
 | Sep 27 - Oct 3 | • Extend particle visualization to engineering geometry and field data.<br>• Stand up PyVista/VTK/Trame rendering environment in this repo.<br>• Paper: literature review / related-work scan.<br> Deliverable: Field-data loader prototype; paper related-work summary. |
 | Oct 4 - Oct 10 | • Scaffold club homepage (thruster architecture, research objectives, project status).<br>• Paper: draft outline and methods framing.<br> Deliverable: Homepage skeleton deployed; paper outline. |
 | Oct 11 - Oct 17 | • Build subteam-research page templates (hardware, models, analysis).<br>• Add technical-record section (methods, references, links to data/code).<br> Deliverable: Subteam + technical-record page templates. |
