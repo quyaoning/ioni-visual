@@ -33,7 +33,7 @@ _References: Gott's thesis, PDR/CDR slides - both available on BOX_
 - [ ] Web dev — pick platform/framework, build the site itself
 - [ ] Content/structure — page layout (overview, subteams, gallery)
 - [ ] Design assets — logo, photos from Multimedia folder
-
+---
 Scientific visualization subteam, Electric Propulsion Initiative (ION-I). Fall 2026: club homepage, CAD/scientific-figure pipeline, and an interactive plasma viewer, building on last semester's particle-visualization prototype ([plasma-visualization](https://github.com/quyaoning/Plasma-Visualization)).
 
 We work closely with the main ION-I club, so this plan will shift with their priorities, timelines, and CAD/analysis deliverables as those land.
