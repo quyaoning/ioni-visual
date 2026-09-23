@@ -1,5 +1,30 @@
 # ioni-visual
 
+**To Do**
+Cathode structure CAD (References: Gott's thesis, PDR/CDR slides - both available on BOX)
+
+CAD modeling — parametric geometry of tube/collar/pin/collector,Prefers using FreeCAD from what I looked into.
+Materials/BOM — dimensions & materials list matching
+Cutaway prep — exploded/sectioned view for later rendering
+
+Rendering environment
+
+Redering Environment selection and setup — Requirements: Handles both particle data and CAD geometry together/Able to do Field visualization/ Playback function/ Embeddable in a website/ Independent per-client sessions/ Python-native or Python-scriptable/ Exports static figures
+Data pipeline — load last semester's particle dataset into it
+Web/interactive layer — frontend construction (plugs into the homepage later)
+
+Paper work(ion kinetics)
+
+Literature review — collision cross sections, stepwise ionization papers
+Physics/model scoping — species, reactions, inputs the rate-equation model needs
+Writing — problem statement draft
+
+Club homepage
+
+Web dev — pick platform/framework, build the site itself
+Content/structure — page layout (overview, subteams, gallery)
+Design assets — logo, photos from Multimedia folder
+
 Scientific visualization subteam, Electric Propulsion Initiative (ION-I). Fall 2026: club homepage, CAD/scientific-figure pipeline, and an interactive plasma viewer, building on last semester's particle-visualization prototype ([plasma-visualization](https://github.com/quyaoning/Plasma-Visualization)).
 
 We work closely with the main ION-I club, so this plan will shift with their priorities, timelines, and CAD/analysis deliverables as those land.
