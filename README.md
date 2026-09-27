@@ -5,7 +5,7 @@
 ### Cathode structure CAD
 _References: Gott's thesis, PDR/CDR slides - both available on BOX_
 
-- [ ] CAD modeling — parametric geometry of tube/collar/pin/collector,Prefers using FreeCAD from what I looked into.
+- [ ] CAD modeling — parametric geometry of tube/collar/pin/collector.
 - [ ] Materials/BOM — dimensions & materials list matching
 - [ ] Cutaway prep — exploded/sectioned view for later rendering
 
